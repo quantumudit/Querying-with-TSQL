@@ -32,19 +32,15 @@ The type of content present in the directories is as follows:
 
 **DATABASES**
 
-This directory contains the T-SQL script of the databases used for all types of querying in this repository.
-
-You may execute the SQL scripts to create the databases in you SQL Server machine
+This directory contains the T-SQL script of the databases used for all types of querying in this repository. You may execute the SQL scripts to create the databases in you SQL Server machine
 
 **NOTEBOOKS**
 
-This directory contains the SQL Notebooks that has the SQL queries along with descriptive notes.
-
-The SQL Notebooks are basically the Jupyter Notebooks with T-SQL Kernel and can be edited with Azure Data Studio.
+This directory contains the SQL Notebooks that has the SQL queries along with descriptive notes. The SQL Notebooks are basically the Jupyter Notebooks with T-SQL Kernel and can be edited with Azure Data Studio.
 
 **RESOURCES**
 
-This directory contains images, icons, layouts, etc. that are used in this project
+This directory contains images, icons, layouts, etc. that are used in this project.
 
 ## Prerequisites
 
